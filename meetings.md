@@ -13,6 +13,5 @@ menu:
 ---
 ## Upcoming meetings
 
-
-## Contact Information
-{% include address.html %}
+* Meeting 1
+* 
