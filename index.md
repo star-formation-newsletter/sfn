@@ -22,9 +22,6 @@ services:
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Clouds, YSOs, Disks, Planets, Clusters
 textline: A community-driven Newsletter
-hero_button:
-  text: Learn more
-  href: "/about"
 show_news: true
 show_staff: false
 
