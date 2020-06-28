@@ -4,6 +4,7 @@ banner_image: "/uploads/2020/06/28/m42hst0.jpg"
 layout: landing-page
 heading: The Star Formation Newsletter
 partners:
+- "/uploads/2020/06/28/logo.gif"
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
