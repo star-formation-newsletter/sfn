@@ -26,3 +26,4 @@ show_news: true
 show_staff: false
 
 ---
+Welcome to The Star Formation Newsletter!

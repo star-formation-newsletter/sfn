@@ -57,18 +57,6 @@ fields:
   name: show_news
   label: Show News?
   description: Enables a news section with a twitter feed & latest posts
-- name: date
-  type: datetime
-  label: date
-  description: ''
-  config:
-    required: false
-    date_format: 
-    time_format: 
-    display_utc: false
-- type: image_gallery
-  name: partners
-  label: Partner Logos
 - type: boolean
   name: show_staff
   label: Show Staff?
