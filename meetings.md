@@ -8,7 +8,7 @@ show_staff: false
 menu:
   navigation:
     identifier: _contact
-    weight: 5
+    weight: 4
 
 ---
 ## Upcoming meetings
