@@ -1,8 +1,8 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/uploads/2020/06/28/m42hst0.jpg"
 layout: landing-page
-heading: Belkirk College
+heading: The Star Formation Newsletter
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
@@ -16,17 +16,15 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Engineering and Health Sciences
-textline: | 
+sub_heading: Clouds - YSOs - Disks - Planets - Clusters
+textline: |
   Belkirk College of Engineering
-  
+
   Ora et Labora
 hero_button:
   text: Learn more
   href: "/about"
 show_news: true
-menu:
-  navigation:
-    identifier: _index
-    weight: 1
+show_staff: false
+
 ---
