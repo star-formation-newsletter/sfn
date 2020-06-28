@@ -57,6 +57,11 @@ fields:
   name: show_news
   label: Show News?
   description: Enables a news section with a twitter feed & latest posts
+- name: test
+  type: image_gallery
+  config: {}
+  label: test
+  hidden: true
 - type: boolean
   name: show_staff
   label: Show Staff?
