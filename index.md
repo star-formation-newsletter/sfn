@@ -22,7 +22,7 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Clouds - YSOs - Disks - Planets - Clusters
+sub_heading: Clouds, YSOs, Disks, Planets, Clusters
 textline: A community-driven Newsletter
 hero_button:
   text: Learn more
