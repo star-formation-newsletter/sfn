@@ -7,11 +7,6 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: city
-  label: City
-  type: text
-  hidden: false
-  default: ''
 - name: twitter
   label: Twitter
   type: text
