@@ -1,6 +1,6 @@
-title: Belkirk College of Engineering
-short_title: Belkirk
-description: Jekyll demo for Forestry CMS
+title: The Star Formation Newsletter
+short_title: SFN
+description: A monthly Newsletter
 baseurl:
 permalink: "/:path/"
 defaults:
