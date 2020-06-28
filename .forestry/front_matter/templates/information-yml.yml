@@ -1,6 +1,7 @@
 ---
 label: Contact Information
-hide_body: true
+hide_body: false
+display_field: email
 fields:
 - name: email
   label: Email
