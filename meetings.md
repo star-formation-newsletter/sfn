@@ -14,4 +14,4 @@ menu:
 ## Upcoming meetings
 
 * Meeting 1
-* [Meeting 2](https://www.google.com)
+* [Meeting 2](https://www.google.com) 
