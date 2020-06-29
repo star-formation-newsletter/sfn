@@ -21,10 +21,9 @@ services:
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Clouds, YSOs, Disks, Planets, Clusters
+textline: A community-driven Newsletter
 show_news: true
 show_staff: false
-textline: ''
-test: []
 
 ---
 Welcome to The Star Formation Newsletter!
